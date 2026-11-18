@@ -34,3 +34,10 @@ About Me
 I'm passionate about learning web development and improving my coding skills through practical projects.
 
 Created by: Renu Mandhare
+## Live Projects
+
+### 1. YouTube Homepage Clone
+
+[View Live Project](https://renumandhare81-create.github.io/personal-portfolio-/youtube-clone/)
+
+[View Source Code](https://github.com/renumandhare81-create/personal-portfolio-/tree/main/youtube-clone)
